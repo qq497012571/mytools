@@ -1,2 +1,0 @@
-# mytools
-curl plugin utools
